@@ -1,0 +1,4 @@
+/vendor/
+/.mago/
+/.phpunit.cache/
+

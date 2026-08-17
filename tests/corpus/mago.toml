@@ -1,0 +1,10 @@
+version = "1"
+php-version = "8.1"
+
+[source]
+paths = ["src"]
+
+[extension-hosts.acme]
+command = ["php", "worker.php"]
+workers = 1
+

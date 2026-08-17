@@ -1,0 +1,6 @@
+version = "1"
+php-version = "8.1"
+
+[source]
+paths = ["src", "tests/Unit"]
+includes = ["vendor"]
